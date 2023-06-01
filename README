@@ -1,0 +1,8 @@
+#README 
+The script Identification_project.R contains a main function which 
+calls the other functions in the program. The script App.R launches the 
+user interface. 
+
+#Additional files to start the analysis:
+Reference file from DB :reference_samples.csv 
+Query file: query_intensity_matrix.csv
